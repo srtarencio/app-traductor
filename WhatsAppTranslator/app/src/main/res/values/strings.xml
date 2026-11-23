@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">WA Traductor</string>
+    <string name="accessibility_service_label">WA Traductor – Servicio de Accesibilidad</string>
+    <string name="accessibility_service_description">Detecta texto en WhatsApp para traducirlo con Gemini antes de enviar.</string>
+    <string name="api_key_hint">Pega tu API Key de Google Gemini aquí</string>
+    <string name="save">Guardar configuración</string>
+    <string name="enable_accessibility">Activar servicio de accesibilidad</string>
+    <string name="enable_overlay">Permitir ventana emergente (overlay)</string>
+    <string name="source_lang">Idioma origen</string>
+    <string name="target_lang">Idioma destino</string>
+    <string name="translate_btn">Traducir</string>
+    <string name="replace_btn">Reemplazar texto</string>
+    <string name="cancel_btn">Cancelar</string>
+    <string name="translating">Traduciendo…</string>
+    <string name="original_label">Texto original:</string>
+    <string name="translation_label">Traducción:</string>
+    <string name="settings_saved">Configuración guardada</string>
+    <string name="copy_btn">Copiar</string>
+    <string name="auto_translate">Traducir automáticamente</string>
+</resources>
